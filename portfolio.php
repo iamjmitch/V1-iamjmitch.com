@@ -25,7 +25,7 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://salscupcakes.iamjmitch.com" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/salscupcakes.png"></a>
+		<a href="https://salscupcakes.iamjmitch.com" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/salscupcakes.png"></a>
 	</div>
 	<div class="portfolio-text">
 		<a href="https://salscupcakes.iamjmitch.com" target="_blank" ><h3>salscupcakes.iamjmitch.com</h3></a>
@@ -56,7 +56,7 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://summerescapes.iamjmitch.com" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/summerescapes.png"></a>
+		<a href="https://summerescapes.iamjmitch.com" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/summerescapes.png"></a>
 	</div>
 	<div class="portfolio-text">
 		<a href="https://summerescapes.iamjmitch.com" target="_blank" ><h3>summerescapes.com.au</h3></a>
@@ -85,7 +85,7 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://naomieldred.com" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/naomieldredmakeupdotcom.png"></a>
+		<a href="https://naomieldred.com" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/naomieldredmakeupdotcom.png"></a>
 	</div>
 	<div class="portfolio-text">
 		<a href="https://naomieldred.com" target="_blank" ><h3>naomieldred.com</h3></a>
@@ -116,7 +116,7 @@ I really can’t recommend and thank James enough!"</i> - Naomi Eldred</p>
 		<div class="portfolio-image-container">
 
 	
-		<a href="https://theartisthouse.iamjmitch.com" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/theartisthouse.png"></a>
+		<a href="https://theartisthouse.iamjmitch.com" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/theartisthouse.png"></a>
 	</div>
 	<div class="portfolio-text">
 		<a href="https://theartisthouse.iamjmitch.com" target="_blank"> <h3>theartisthouse.com.au</h3> </a>
@@ -142,7 +142,7 @@ I really can’t recommend and thank James enough!"</i> - Naomi Eldred</p>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="/" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/iamjmitch.png"></a>
+		<a href="/" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/iamjmitch.png"></a>
 	</div>
 	<div class="portfolio-text">
 		<a href="/" target="_blank"><h3>iamjmitch.com</h3></a>

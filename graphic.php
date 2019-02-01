@@ -25,10 +25,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/silverfoxFB.jpg" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/silverfoxlogo.jpg"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/silverfoxFB.jpg" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/silverfoxlogo.jpg"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/silverfoxFB.jpg" target="_blank" ><h3>Logo Design</h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/silverfoxFB.jpg" target="_blank" ><h3>Logo Design</h3></a>
 		<ul>
 			<li>Type: Commision</li>
 			<li>Medium: Digital Presence</li>
@@ -45,10 +45,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/silverfox-final.jpg" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/silverfox.jpg"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/silverfox-final.jpg" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/silverfox.jpg"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/silverfox-final.jpg" target="_blank" ><h3>Business Card Design</h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/silverfox-final.jpg" target="_blank" ><h3>Business Card Design</h3></a>
 		<ul>
 			<li>Type: Commision</li>
 			<li>Medium: Business Card</li>
@@ -67,10 +67,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/canvas.jpg" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/pier.jpg"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/canvas.jpg" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/pier.jpg"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/canvas.jpg" target="_blank" ><h3>Redcliffe Pier Canvas</h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/canvas.jpg" target="_blank" ><h3>Redcliffe Pier Canvas</h3></a>
 		<ul>
 			<li>Type: Personal</li>
 			<li>Medium: Canvas</li>
@@ -92,10 +92,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/salbusiness.jpg" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/salbc.jpg"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/salbusiness.jpg" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/salbc.jpg"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/salbusiness.jpg" target="_blank" ><h3>Business Card Design </h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/salbusiness.jpg" target="_blank" ><h3>Business Card Design </h3></a>
 		<ul>
 			<li>Type: Commision</li>
 			<li>Medium: Business Card</li>
@@ -115,10 +115,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/Sal_product_label.jpg" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/salship.jpg"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/Sal_product_label.jpg" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/salship.jpg"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/Sal_product_label.jpg" target="_blank" ><h3>Product Labels</h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/Sal_product_label.jpg" target="_blank" ><h3>Product Labels</h3></a>
 		<ul>
 			<li>Type: Commision</li>
 			<li>Medium: Print</li>
@@ -137,10 +137,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/salflyer.png" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/salflyer.png"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/salflyer.png" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/salflyer.png"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/salflyer.png" target="_blank" ><h3>Promotional Giveaways</h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/salflyer.png" target="_blank" ><h3>Promotional Giveaways</h3></a>
 		<ul>
 			<li>Type: Commision</li>
 			<li>Medium: Print</li>
@@ -164,10 +164,10 @@ get_header ();?>
 	<div class="portfolio-header">
 
 	<div class="portfolio-image-container">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/salfacebook.jpg" target="_blank" class="portfolio-image"> <img src="https://storage.googleapis.com/iamjmitch/iamjmitch/salslogo.jpg"></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/salfacebook.jpg" target="_blank" class="portfolio-image"> <img src="https://iamjmitch-cdn.sirv.com/Images/salslogo.jpg"></a>
 	</div>
 	<div class="graphic-text">
-		<a href="https://storage.googleapis.com/iamjmitch/iamjmitch/salfacebook.jpg" target="_blank" ><h3>Sal's Cupcakes Logo </h3></a>
+		<a href="https://iamjmitch-cdn.sirv.com/Images/salfacebook.jpg" target="_blank" ><h3>Sal's Cupcakes Logo </h3></a>
 		<ul>
 			<li>Type: Commision</li>
 			<li>Medium: Digital Presence</li>

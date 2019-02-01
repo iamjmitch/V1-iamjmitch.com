@@ -5,7 +5,7 @@
 		<p> James Mitchell - Copyright &copy; 2019</p>
 	</div>
 	<div id="dev">
-<a href="http://iamjmitch.com"><img src="https://storage.googleapis.com/iamjmitch/iamjmitch/jmlogo.png" alt="Theme Design By James Mitchell"></a>
+<a href="http://iamjmitch.com"><img src="https://iamjmitch-cdn.sirv.com/Images/jmlogo.png" alt="Theme Design By James Mitchell"></a>
 </div>
 </div>
 
