@@ -17,7 +17,7 @@ a.current-menu-item.nav-item  {
 body{
 	min-height:100vh;
 	min-width:auto;
-	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/bg.jpg');
+	background-image: url('https://iamjmitch-cdn.sirv.com/Images/bg.jpg');
 	background-repeat: repeat;
 	font-family: sans-serif;
 }
@@ -145,7 +145,7 @@ body{
 	width:20%;
 	height:400px;
 	float:left;
-	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/about.jpg');
+	background-image: url('https://iamjmitch-cdn.sirv.com/Images/about.jpg');
 	background-size: cover;
 	margin:20px 2.5% 0 2.5%;
 	background-position: center; 
@@ -155,7 +155,7 @@ body{
 	width:20%;
 	height:400px;
 	float:left;
-	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/resume.jpg');
+	background-image: url('https://iamjmitch-cdn.sirv.com/Images/resume.jpg');
 	background-size: cover;
 	margin:20px 2.5% 0 2.5%;
 	background-position: center; 
@@ -166,7 +166,7 @@ body{
 	width:20%;
 	height:400px;
 	float:left;
-	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/portfolio.jpg');
+	background-image: url('https://iamjmitch-cdn.sirv.com/Images/portfolio.jpg');
 	background-size: cover;
 	margin:20px 2.5% 0 2.5%;
 	background-position: center; 
@@ -177,7 +177,7 @@ body{
 	width:20%;
 	height:400px;
 	float:left;
-	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/contact.jpg');
+	background-image: url('https://iamjmitch-cdn.sirv.com/Images/contact.jpg');
 	background-size: cover;
 	margin:20px 2.5% 0 2.5%;
 	background-position: center; 
