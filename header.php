@@ -44,6 +44,7 @@
       <li><a style="@media only screen and (max-width: 767px) {min-height:50px;}"class="nav-item nav-link link-graphics" href="/graphic-design">Graphic Design</a></li>
       <li><a style="@media only screen and (max-width: 767px) {min-height:50px;}"class="nav-item nav-link link-resume" href="/resume">Resume</a></li>
       <li><a style="@media only screen and (max-width: 767px) {min-height:50px;}"class="nav-item nav-link link-contact" href="/contact">Contact</a></li>
+      <li><a style="@media only screen and (max-width: 767px) {min-height:50px;}"class="nav-item nav-link link-git" href="https://github.com/iamjmitch" target="_blank">Github</a></li>
 </ul>
      
     </div>
