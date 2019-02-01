@@ -1,0 +1,1039 @@
+/*
+Theme Name: James' Portfolio 
+Author: James Mitchell
+Version: 1.0
+*/
+
+body, html {
+	margin:0;
+	padding:0;
+	min-width:513px;
+}
+
+a.current-menu-item.nav-item  {
+    color: red!important;
+}
+
+body{
+	min-height:100vh;
+	min-width:auto;
+	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/bg.jpg');
+	background-repeat: repeat;
+	font-family: sans-serif;
+}
+.navbar-light .navbar-nav .nav-link, .bg-light {
+	background-color: #222323!important;
+	color: #6fcb9f;
+	text-align: center;
+	overflow: auto;
+	font-family: 'Oswald', sans-serif;
+	}
+
+
+.navbar-expand-md .navbar-collapse {
+	justify-content: flex-end;
+	padding-right:30px;
+}
+
+
+
+.navbar-light .navbar-toggler {
+    background-color: #6fcb9f;
+}
+
+
+.crop {
+    clip: rect(0px,41px,30px,0px);
+    position: absolute;
+    margin-top: 5px!important;
+}
+
+
+
+
+
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+	padding:0;
+	margin:0;
+}
+
+#nav-bar{
+	float:right;
+	width:80%;
+	margin-top: 20px;
+	text-align:right;
+}
+
+.nav-link:hover, .nav-link:active {
+	color: #fb2e01!important;
+}
+
+.nav-link:visited {
+	color: #6fcb9f;
+}
+
+#logo {
+	float:left;
+	width:20%;
+	text-align: left;
+	
+	
+}
+#logo img{
+	height:40px;
+	padding-top: 10px;
+	padding-left:100px;
+}
+
+#nav-bar ul li a {
+	color:#6fcb9f;
+	padding:0 20px 0 20px;
+	
+	
+}
+
+
+
+
+#nav-bar ul li {
+	color:#fff;
+	text-decoration:none;
+		display:inline-block;
+		font-family: 'Oswald', sans-serif;
+		vertical-align: middle;
+
+
+		
+}
+
+#nav-bar ul {
+	list-style: none;
+	margin:0;
+	padding:0;
+	padding-bottom: 5px;
+	padding-right:100px;
+
+}
+
+
+#nav-bar li.current-menu-item a  {
+	color:#fb2e01;
+
+}
+
+#nav-bar li a{
+	text-align: center;
+	text-decoration: none;
+}
+
+#homepage-container{
+	width:960px;
+	margin-left:auto;
+	margin-right: auto;
+}
+
+#greeting {
+	width:100%;
+	text-align: center;
+	
+}
+
+
+
+.floatingmenuabout {
+	width:20%;
+	height:400px;
+	float:left;
+	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/about.jpg');
+	background-size: cover;
+	margin:20px 2.5% 0 2.5%;
+	background-position: center; 
+	padding-bottom: 50px;
+}
+.floatingmenuresume {
+	width:20%;
+	height:400px;
+	float:left;
+	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/resume.jpg');
+	background-size: cover;
+	margin:20px 2.5% 0 2.5%;
+	background-position: center; 
+
+}
+
+.floatingmenuportfolio {
+	width:20%;
+	height:400px;
+	float:left;
+	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/portfolio.jpg');
+	background-size: cover;
+	margin:20px 2.5% 0 2.5%;
+	background-position: center; 
+	
+}
+
+.floatingmenucontact {
+	width:20%;
+	height:400px;
+	float:left;
+	background-image: url('https://storage.googleapis.com/iamjmitch/iamjmitch/contact.jpg');
+	background-size: cover;
+	margin:20px 2.5% 0 2.5%;
+	background-position: center; 
+
+}
+#floating-menu{
+	width: 960px;
+    margin-left: auto;
+    overflow: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    margin-bottom: 50px;
+    
+
+}
+.floatingmenucontact:hover {
+	opacity: 0.5;
+}
+.floatingmenuabout:hover {
+	opacity: 0.5;
+}
+.floatingmenuresume:hover {
+	opacity: 0.5;
+}
+.floatingmenuportfolio:hover {
+	opacity: 0.5;
+}
+
+#footer {
+	width:100%;
+	margin-top:50px;
+	border-top: 1px solid #a7a7a7;
+	
+}
+#footer-container{
+	width:960px;
+	margin-left: auto;
+	margin-right:auto;
+	text-align:center;
+	color:#fff;
+	font-size:16px;
+	
+}
+
+#page-container{
+	width:960px;
+	min-height: 77vh;
+	margin-left: auto;
+	margin-right: auto;
+	overflow:visible;
+
+	
+	
+
+}
+
+#page-container h1{
+	color:#fb2e01;
+	font-size: 50px;
+	padding:20px 0 20px 0;
+
+	
+}
+
+#page-container p{
+	color: #fff;
+	padding: 0 20px 0 20px;
+}
+
+#whiteback{
+	width: 100%;
+	height:100%;
+	background-color: #fff;
+}
+
+#avatar{
+	text-align: center;
+	margin-bottom:28px;
+}
+
+.col{
+	width:33.2%;
+	float:left;
+	border-left: 1px solid #fb2e01;
+	margin: 50px 0 50px 0;
+
+
+}
+
+.col:first-of-type{
+	border-left: none;
+	margin: 50px 0 50px 0;
+	
+
+
+}
+.col p{
+	font-size:20px;
+	color: #6fcb9f!important;
+	text-align: center;
+	margin:0;
+}
+.col ul {
+	list-style-type: none;
+	padding: 0;
+	
+}
+
+.col ul li{
+	text-align: center;
+	color:#fff;
+	
+}
+
+.col ul li a{
+	color:#fff;
+}
+
+.jobdetails p{
+	font-size:16px;
+	color: #6fcb9f!important;
+	text-align: left;
+	margin:0;
+}
+.jobdetails ul {
+	list-style-type: none;
+	padding: 0;
+	
+}
+
+.jobdetails ul li{
+	text-align: left;
+	color:#fff;
+	padding-left: 20px;
+	
+}
+
+.jobdetails ul li a{
+	color:#fff;
+}
+input#isbot {
+    display: none;
+}
+
+
+
+.job{
+	overflow:auto;
+}
+
+.jobdetailslast p{
+	font-size:16px;
+	color: #6fcb9f!important;
+	text-align: left;
+	margin:0;
+}
+.jobdetailslast ul {
+	list-style-type: none;
+	padding: 0;
+	
+}
+
+.jobdetailslast ul li{
+	text-align: left;
+	color:#fff;
+	padding-left: 20px;
+	
+}
+
+.jobdetailslast ul li a{
+	color:#fff;
+}
+
+.year p{
+	font-size:16px;
+	color: #6fcb9f!important;
+	text-align: right;
+	margin:0;
+}
+
+#footer-container p{
+	padding-top:20px;
+	font-size: 14px;
+}
+
+
+
+.year{
+	width:15%;
+	text-align: right;
+	float: left;
+	clear:both;
+	
+}
+
+.jobdetails{
+	width: 84%;
+	text-align:left;
+	float: left;
+	border-left: 1px solid #fb2e01;
+	 padding-bottom: 25px;
+
+	
+
+}
+
+.jobdetailslast{
+	width: 84%;
+	text-align:left;
+	float: left;
+	border-left: 1px solid #fb2e01;
+	 
+
+	
+
+}
+
+
+#experience h2{
+	text-align: center;
+	padding-top: 50px;
+	clear:both;
+	color:#6fcb9f!important;
+	
+}
+
+.workhistory{
+	border-top: 1px dashed #fb2e01;
+}
+
+.twocolleft{
+	width:42%;
+	float: left;
+		line-height:30px;
+	font-size: 30px;
+	text-align: right;
+	padding-bottom:5px;
+	
+	
+}
+.twocolright{
+	width:58%;
+	float: left;
+	display:inline-block;
+	font-size: 30px;
+	margin:0;
+	line-height: 35px;
+	padding-bottom:5px;
+	
+}
+
+.colimg{
+	height:30px;
+}
+
+
+.twocolleft p{
+		margin:0;
+
+}
+
+#twocol{
+	padding-bottom:60px;
+	border-bottom: 1px dashed #fb2e01;
+	    overflow: auto;
+}
+#page-container h1{
+	text-align: center!important;
+	font-family: 'Oswald', sans-serif;
+	
+}
+.portfolio {
+	text-align: center;
+
+	
+}
+
+#portfolio-container{
+	margin-top: -20px;
+}
+
+.portfolio-header{
+		display:flex;
+		align-items: center;
+		padding:20px 0;
+		
+}
+
+.portfoliowrap{
+	border-top: 1px dashed #fb2e01;
+		margin:10px 0px 20px 0;
+		    padding-top: 0;
+}
+
+.portfoliowrap h3{
+	font-size: 3em;
+	color: #6fcb9f;
+	margin: 0 0 10px 0;
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+.portfoliowrap:first-of-type{
+	border-top: none;
+}
+
+.portfolio-info h4{
+	font-size: 1em;
+	color: #6fcb9f;
+	margin-top: 0;
+	padding-left:20px;
+	margin-bottom: 5px;
+	font-family: 'Oswald', sans-serif;
+	
+}
+.portfolio-info p {
+	margin-top: 0;
+}
+
+.portfoliowrap li{
+	color: #fb2e01;
+	
+}
+
+.portfoliowrap ul{
+	
+	padding-left:20px;
+}
+
+
+
+
+.graphicwrap{
+	border-top: 1px dashed #fb2e01;
+		padding-top: 0;
+		    padding: 10px 0 10px 0;
+}
+
+.graphicwrap h3{
+	font-size: 3em;
+	color: #6fcb9f;
+	margin: 0 0 10px 0;
+	font-family: 'Oswald', sans-serif;
+	
+}
+
+.graphicwrap:first-of-type{
+	border-top: none;
+}
+
+
+
+.graphicwrap li{
+	color: #fb2e01;
+	
+}
+
+.graphicwrap ul{
+	
+	padding-left:20px;
+
+}
+
+
+
+
+
+
+
+
+
+.portfolio-info{
+	clear: both;
+	text-align: left;
+	
+}
+.portfolio-text a {
+	text-decoration: none;
+	
+}
+
+.portfolio-text h3:hover {
+	color: #fff;
+	
+}
+
+.graphic-text a {
+	text-decoration: none;
+	
+}
+
+.graphic-text h3:hover {
+	color: #fff;
+	
+}
+
+.portfolio-info i{
+	font-weight: lighter;
+	font-family: sans-serif;
+}
+.portfolio-image{
+	width:100%;
+	text-align: center;
+
+}
+
+.portfolio-image-container{
+	width:55%;
+	float: left;
+	text-align: center;
+	
+}
+
+.portfolio-image img{
+	width:80%;
+	align-items: center;
+	transition: all 1s;
+	}
+
+	.portfolio-image img:hover{
+	transform: scale(1.03);
+	}
+
+.portfolio-text{
+	width:45%;
+	margin-top: -60px;
+	
+	text-align: left;
+	
+}
+
+.graphic-text{
+	width:45%;
+	text-align: left;
+	
+}
+
+.contact-container{
+	width:50%;
+	margin-left: auto;
+	margin-right: auto;
+
+		
+	padding-right: 10px;
+	overflow:auto;
+	
+}
+
+.contact-container label{
+	color: #6fcb9f;
+
+	
+}
+
+#dev img{
+	height: 15px;
+	
+}
+
+#dev{
+	width:100%;
+	text-align: center;
+	background: transparent;
+	padding-bottom:10px;
+}
+.cleft, .cright{
+
+padding-top: 10px;
+	clear:both;
+}
+
+#fname, #email, #phone, #message {
+	width: 100%;
+	 border: 0;
+	 padding:0;
+	 line-height:30px;
+	 box-sizing : border-box;
+
+
+}
+
+.submit{
+	width:49.5%;
+	background-color: #6fcb9f;
+	float: left;
+	    border: 0;
+    height: 50px;
+    color:#000;
+    margin-top: 10px;
+    font-family: 'Oswald', sans-serif;
+
+}
+	
+
+
+.reset{
+	width: 49.5%;
+	background-color: #6fcb9f;
+	float: right;
+	    border: 0;
+    height: 50px;
+    color:#000;
+    margin-top: 10px;
+    font-family: 'Oswald', sans-serif;
+
+
+
+}
+
+.submit:hover, .reset:hover {
+	    background-color: #fb2e01;
+	    color:#fff;
+	    cursor: pointer;
+}
+
+.contact-container input[type=text], textarea{
+    width: 100%;
+    padding: 5px 20px!important;
+    margin: 8px 0;
+    font-family: 'Oswald', sans-serif;
+    box-sizing : border-box;
+
+}
+
+.goback:hover {
+	color:#fb2e01;
+	cursor: pointer;
+}
+
+#nav-bar ul li:active a{
+	    color: #fb2e01!important;
+}
+
+
+
+
+.jumbotron{
+    min-height: 100vh;
+    margin:0; 
+    margin-top:-60px;  
+    width: 100%;
+    background-color:transparent;
+    text-align: center;
+    min-width:513px;
+}
+
+.jumbotron h1{
+	color:#fff;
+	    font-size: 200px;
+	    margin-bottom:0;
+	    font-family: 'Oswald', sans-serif;
+	    text-transform: uppercase;
+	    padding-top:50px;
+
+}
+.jumbotron h2{
+	color:#fff;
+	    font-size: 50px;
+	    text-transform: uppercase;
+	     margin-top:20px;
+	     font-family: 'Oswald', sans-serif;
+	     margin-bottom: 30px;
+
+	
+}
+
+
+	
+
+@media only screen and (max-width: 960px) {
+    #logo {
+       float:none;
+       width:100%;
+       text-align:center;
+       
+    }
+
+    #nav-bar{
+    	float:none;
+       width:100%;
+       text-align:center;
+       clear:both;
+       
+       padding:0;
+    }
+    #nav-bar ul {
+    	padding-right:0;
+}
+#nav-bar-container{
+	text-align:center;
+}
+
+
+
+#logo img {
+   
+    padding-left: 0;
+}
+
+#homepage-container{
+	width:100%;
+
+}
+
+#page-container{
+	width:100%;
+	min-height: 80vh;
+}
+
+
+#footer-container{
+	width:100%;
+}
+
+#floating-menu{
+	width:100%;
+}
+
+.floatingmenuabout {
+	
+	margin:20px 2.5% 0 2.5%;
+}
+.floatingmenuresume {
+	margin:20px 2.5% 0 2.5%;
+}
+
+.floatingmenuportfolio {
+	margin:20px 2.5% 0 2.5%;
+}
+
+.floatingmenucontact {
+	margin:20px 2.5% 0 2.5%;
+}
+.col {
+	width:100%;
+	border:none;
+	border-bottom: 1px solid #fb2e01;
+	margin:0!important;
+	padding: 30px 0;
+}
+
+.col:last-of-type {
+	border-bottom: 0;
+}
+
+.workhistory {
+    border-top: 1px dashed #fb2e01!important;
+}
+
+.portfolio-text h3{
+font-size: 2em;
+
+}
+
+.portfolio-text {
+	margin:0;
+	}}
+
+
+@media only screen and (max-width: 766px) {
+
+#dev img{
+	height: 22px;	
+}
+
+.graphicwrap ul{
+	
+	padding-left:20px;
+	padding-right:20px;
+}
+
+.twocolleft {
+    width: 42%;
+    float: left;
+    line-height: 20px;
+    font-size: 20px;
+    text-align: right;
+    padding-bottom: 5px;
+}
+
+.twocolright {
+    width: 58%;
+    float: left;
+    display: inline-block;
+    font-size: 20px;
+    margin: 0;
+    line-height: 20px;
+    padding-bottom: 10px;
+}
+.colimg {
+    height: 20px;
+    margin-top:-3px;
+}
+
+#twocol {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #fb2e01;
+    overflow: auto;
+    }
+
+#page-container h1 {
+    color: #fb2e01;
+    font-size: 50px;
+    padding: 20px 0 30px 0;
+}
+
+#page-container p, .col ul li, h4 {
+    font-size: 20px!important;
+}
+
+.portfolio-text h3, .graphic-text h3{
+	font-size:42px!important;
+}
+
+.portfolio-text li, .graphic-text li{
+	font-size:20px!important;
+}
+
+  .col:first-of-type {
+    border-left: none;
+    margin: 20px 0 50px 0;
+     margin-bottom: 0;
+    }
+    .col{
+    border-left: none;
+    margin: 20px 0 50px 0;
+    margin-bottom: 0;
+}
+
+.col p{
+	font-size: 30px;
+	margin-bottom: 10px;
+	text-decoration: underline;
+}
+
+.col ul {
+    list-style-type: none;
+    padding: 0;
+    padding-bottom: 5px;
+    margin:0;
+}
+
+#experience h2 {
+    text-align: center;
+    padding-top: 20px;
+    clear: both;
+    color: #6fcb9f!important;
+    text-decoration: underline;
+    padding-bottom: 10px;
+    
+}
+.jobdetails {
+    width: 80%;
+    text-align: left;
+    float: left;
+    border-left: 1px solid #fb2e01;
+    padding-bottom: 25px;
+
+}
+
+.jobdetailslast {
+    width: 80%;
+    text-align: left;
+    float: left;
+    border-left: 1px solid #fb2e01;
+    padding-bottom: 0;
+
+}
+
+.jobdetails li, .jobdetailslast li{
+	box-sizing : border-box;
+	padding-right:20px;
+}
+
+
+
+
+.year {
+    width: 20%;
+    text-align: right;
+    float: left;
+    clear: both;
+}
+
+.workhistory {
+    border-top: none;
+}
+
+
+
+	.navbar-light .navbar-nav .nav-link, .bg-light {
+    background-color: #222323!important;
+    color: #fb2e01;
+    text-align: center;
+    overflow: auto;
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    min-height: 50px;
+}
+
+.navbar-expand-md .navbar-collapse {
+	justify-content: flex-end;
+	padding-right:0;
+}
+
+.nav-link {
+	border-bottom: 1px dashed #6fcb9f;
+}
+.portfolio-image-container {
+	width:100%;
+	float: none;
+	
+}
+
+.portfolio-text, .graphic-text{
+	width: 100%;
+	float: none;
+	clear: both;
+	margin-top:10px;
+	padding:0 10px 0 10px;
+	box-sizing : border-box;
+	text-align: center;
+	
+	
+}
+
+.portfolio-text ul, .graphic-text ul{
+	list-style-type: none;
+}
+
+.portfolio-header{
+	display: block;
+	
+	
+}
+
+.portfolio-image img:hover{
+	transform: scale(1.05);
+	}
+
+.contact-container {
+	width:100%;
+	padding:0 20px 0 20px;
+	box-sizing : border-box;
+}
+
+.jumbotron h1{
+	font-size: 170px;
+}
+.navbar-nav{
+	min-height:60px;
+}
+
+.crop {
+    clip: rect(0px,28px,30px,0px);
+    position: absolute;
+    margin-top: 0px!important;
+}
+}
